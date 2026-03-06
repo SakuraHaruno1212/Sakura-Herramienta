@@ -1,0 +1,5 @@
+.cache
+.ssh
+.termux
+__pycache__
+*.pyc
